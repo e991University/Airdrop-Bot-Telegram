@@ -1,86 +1,86 @@
-# 🌟 **Airdrop Telegram Bot** 🚀
-### 🎉 Welcome to the Ultimate Airdrop Bot for Telegram 🎉
+# 🌟 **Bot Airdrop Telegram** 🚀
+### 🎉 Selamat Datang di Bot Airdrop Terbaik untuk Telegram 🎉
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x150.png?text=Airdrop+Bot+Logo" alt="Airdrop Bot Logo" width="300">
+  <h1>🤖 Airdrop Bot Logo 🤖</h1>
 </div>
 
 <p align="center">
-  <b><i>🔥 Let the Airdrop Begin! 🚀 Start earning free tokens now! 🔥</i></b>
+  <b><i>🔥 Mulai Airdrop Sekarang! 🚀 Dapatkan token gratis dengan cepat! 🔥</i></b>
 </p>
 
 <p align="center">
-  💸💸💸 <b>Easy, Fast, and Secure!</b> 💸💸💸<br>
-  Join the airdrop, complete simple tasks, and claim your tokens in minutes!
+  💸💸💸 <b>Mudah, Cepat, dan Aman!</b> 💸💸💸<br>
+  Ikuti airdrop, selesaikan tugas sederhana, dan klaim token Anda dalam hitungan menit!
 </p>
 
 ---
 
-## ✨ **Key Features** ✨
+## ✨ **Fitur Utama** ✨
 
-- 🤑 **Earn Free Tokens** by completing tasks 🎯
-- 💬 **Simple Telegram Integration** with a user-friendly interface 🤖
-- 🛡️ **Secure & Reliable** for all participants 🔒
-- ⏰ **Real-Time Updates** for your airdrop progress 📊
-
----
-
-## 🚀 **How to Participate** 🚀
-1. 🎯 **Start the Bot** by clicking the [Telegram Bot Link](https://t.me/yourairdropbot) 🎯
-2. 👥 **Join the required Telegram groups and channels**
-3. 🔗 **Follow the social media accounts as instructed**
-4. 💰 **Submit your wallet address to receive your airdrop**
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Step+by+Step+Guide" alt="Step by Step Guide" width="500">
-</p>
+- 🤑 **Dapatkan Token Gratis** dengan menyelesaikan tugas 🎯
+- 💬 **Integrasi Mudah dengan Telegram** dan antarmuka yang ramah pengguna 🤖
+- 🛡️ **Aman & Terpercaya** untuk semua peserta 🔒
+- ⏰ **Update Real-Time** untuk memantau perkembangan airdrop Anda 📊
 
 ---
 
-## 📜 **Rules & Requirements** 📜
-- ✔️ **No Multiple Accounts** – Only one account per user is allowed.
-- 🕒 **Complete Tasks on Time** – Ensure you complete all tasks before the deadline.
-- 🚫 **Don't Cheat** – Any form of cheating will result in disqualification from the airdrop.
-
----
-
-## 💡 **Why Use Our Airdrop Bot?** 💡
-
-- 🔥 **Fast and Efficient** – Instant rewards after task completion!
-- 🚀 **Built for Growth** – Boost your token holders and community engagement.
-- 💼 **Business Ready** – Ideal for projects seeking exposure.
+## 🚀 **Cara Berpartisipasi** 🚀
+1. 🎯 **Mulai Bot** dengan mengklik [Link Bot Telegram](https://t.me/yourairdropbot) 🎯
+2. 👥 **Bergabung dengan grup dan channel Telegram yang diperlukan**
+3. 🔗 **Ikuti akun media sosial sesuai instruksi**
+4. 💰 **Masukkan alamat dompet Anda untuk menerima token airdrop**
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Join+Now" alt="Join Now" width="350">
+  <h2>🔎 Panduan Langkah demi Langkah 🔎</h2>
 </div>
 
 ---
 
-## 🎉 **Don't Miss Out! Join Now!** 🎉
+## 📜 **Aturan & Persyaratan** 📜
+- ✔️ **Tidak Ada Akun Ganda** – Hanya satu akun per pengguna yang diperbolehkan.
+- 🕒 **Selesaikan Tugas Tepat Waktu** – Pastikan Anda menyelesaikan semua tugas sebelum tenggat waktu.
+- 🚫 **Jangan Curang** – Bentuk kecurangan apa pun akan menyebabkan diskualifikasi dari airdrop.
+
+---
+
+## 💡 **Mengapa Menggunakan Bot Airdrop Kami?** 💡
+
+- 🔥 **Cepat dan Efisien** – Hadiah langsung setelah tugas selesai!
+- 🚀 **Dibuat untuk Pertumbuhan** – Meningkatkan jumlah pemegang token dan keterlibatan komunitas.
+- 💼 **Siap untuk Bisnis** – Cocok untuk proyek yang mencari eksposur.
+
+<div align="center">
+  <h2>✨ Gabung Sekarang! ✨</h2>
+</div>
+
+---
+
+## 🎉 **Jangan Lewatkan! Gabung Sekarang!** 🎉
 
 <p align="center">
   <a href="https://t.me/yourairdropbot" style="background-color: #ff4500; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
-    🚀 Click Here to Join the Airdrop Bot 🚀
+    🚀 Klik di Sini untuk Gabung Bot Airdrop 🚀
   </a>
 </p>
 
 ---
 
-## 🔗 **Follow Us on Social Media** 🔗
+## 🔗 **Ikuti Kami di Media Sosial** 🔗
 <p align="center">
   <a href="https://twitter.com/yourtwitter" style="margin-right: 10px;">
-    <img src="https://via.placeholder.com/40x40.png?text=Twitter" alt="Twitter" width="40">
+    🐦 Twitter
   </a>
   <a href="https://t.me/yourtelegram" style="margin-right: 10px;">
-    <img src="https://via.placeholder.com/40x40.png?text=Telegram" alt="Telegram" width="40">
+    💬 Telegram
   </a>
   <a href="https://instagram.com/yourinstagram" style="margin-right: 10px;">
-    <img src="https://via.placeholder.com/40x40.png?text=Instagram" alt="Instagram" width="40">
+    📸 Instagram
   </a>
 </p>
 
 ---
 
 ## ⚠️ **Disclaimer** ⚠️
-*Please ensure that you follow all rules. The airdrop team is not responsible for any loss due to incomplete tasks or missed deadlines.*
+*Pastikan Anda mengikuti semua aturan. Tim airdrop tidak bertanggung jawab atas kerugian karena tugas yang tidak lengkap atau tenggat waktu yang terlewat.*
