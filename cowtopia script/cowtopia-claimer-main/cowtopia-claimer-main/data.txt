@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1998447930%2C%22first_name%22%3A%22.%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22e991saya%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5535432473262589573&chat_type=sender&start_param=5993129777&auth_date=1725968956&hash=1eec9a163e9a5168613db7edc0448299545311374b7e456d94be4817552f33d0
